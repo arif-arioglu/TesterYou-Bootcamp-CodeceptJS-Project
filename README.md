@@ -2,9 +2,9 @@ This study consists of 3 scenarios which are described below.
 Test automation solution was developed by using CodeceptJS. Puppeteer driver was chosed.
 
 Installations:
-•node.js must be installed.
-•Chrome Browser must be installed.
-•Visual Studio Code is recommended as editor.
+*node.js must be installed.
+*Chrome Browser must be installed.
+*Visual Studio Code is recommended as editor.
 
 Scenarios:
 
